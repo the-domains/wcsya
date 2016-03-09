@@ -1,0 +1,28 @@
+name: WCSYA
+favicon: null
+layout_spectrum: 0.5869026023428887
+typography_spectrum: 0.49143189867027104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9646446015685797
+  lightness: 0.8233242058195174
+  saturation: 0.7675712758209556
+  rhythmicContrast: 0.905807769857347
+purpose: []
